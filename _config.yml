@@ -1,0 +1,42 @@
+remote_theme: vaibhavvikas/jekyll-theme-minimalistic
+
+title: Tatiana Vanchurina
+description: Portfolio
+email: irbiirbi9@gmail.com
+logo: /assets/images/ava.png
+favicon: true
+color-scheme: light
+github_maintainer: drew2a
+
+platforms:
+  - name: LinkedIn
+    icon: <i class="fa-brands fa-linkedin"></i>
+    link: https://www.linkedin.com/in/tatiana-vanchurina
+
+github:
+  is_project_page: false
+  is_user_page: false
+
+navigation:
+  - name: Portfolio
+    link: /
+    sublist:
+      - name: GameDev
+        link: /#gamedev-projects
+      - name: Animation Projects
+        link: /#animation-projects
+      - name: Seamless Design
+        link: /#seamless-design
+      - name: Book Illustrations
+        link: /#book-illustrations
+      - name: Vector
+        link: /#illustrations-for-websites-vector
+
+  - name: Projects
+    link: /projects.html
+    sublist:
+      - name: Books
+        link: /projects/books.html
+
+  - name: Sleeping cat
+    link: /sleeping_cat.html

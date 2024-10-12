@@ -1,0 +1,91 @@
+{% case site.color-scheme %}
+  {% when "", nil, false, 0, empty %}
+    {% assign ColorScheme = "auto" %}
+  {% else %}
+    {% assign ColorScheme = site.color-scheme %}
+{% endcase %}
+
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    {% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/colors-ColorScheme.css?v=" | replace: "ColorScheme", ColorScheme | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <link rel="preload" href="{{site.logo | relative_url}}" as="image">
+    {% include head-custom.html %}
+  </head>
+  <body>
+    <div class="wrapper">
+      <div class="sidebar">
+        <header>
+          {%- include header.html -%}
+        </header>
+        {% include mobile.html %}
+        <div class="sidebar-footer">
+          {%- include footer.html -%}
+        </div>
+      </div>
+      <section>
+      {{ content }}
+      </section>
+      <footer>
+        {%- include footer.html -%}
+      </footer>
+    </div>
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/2.6.0/lightgallery.min.js"></script>
+    <script>
+      document.addEventListener("DOMContentLoaded", function() {
+        // Convert each <div class="gallery-item"><img> into <a><img></a>
+        document.querySelectorAll('.gallery').forEach(gallery => {
+          gallery.querySelectorAll('.gallery-item').forEach(div => {
+            const img = div.querySelector('img'); // Find the image inside the div
+            if (img) {
+              // Create a new anchor tag
+              const link = document.createElement('a');
+              link.href = img.src; // Set the href to the image source
+              link.classList.add('gallery-item'); // Add gallery-item class to <a>
+              link.setAttribute('data-lg-size', `${img.naturalWidth}-${img.naturalHeight}`); // Set natural size for LightGallery
+
+              // Move the image into the anchor tag
+              link.appendChild(img);
+
+              // Replace the div with the new anchor tag
+              div.replaceWith(link);
+            }
+          })
+        });
+
+        // Initialize LightGallery for each gallery separately
+        document.querySelectorAll('.gallery').forEach(gallery => {
+            lightGallery(gallery, {
+                selector: '.gallery-item' // Apply LightGallery to all anchor tags with class gallery-item within the gallery
+            });
+        });
+        document.querySelectorAll('.simple_gallery').forEach(gallery => {
+         document.querySelectorAll('.item').forEach(div => {
+          const img = div.querySelector('img'); // Find the image inside the div
+          if (img) {
+            // Create a new anchor tag
+            const link = document.createElement('a');
+            link.href = img.src; // Set the href to the image source
+
+            // Move the image into the anchor tag
+            link.appendChild(img);
+
+            // Replace the div with the new anchor tag
+            div.replaceWith(link);
+          }
+         })
+        });
+
+        document.querySelectorAll('.simple_gallery').forEach(gallery => {
+          lightGallery(gallery);
+        });
+      });
+  </script>
+  </body>
+</html>

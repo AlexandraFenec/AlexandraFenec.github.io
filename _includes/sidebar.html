@@ -1,0 +1,25 @@
+<div class="link-wrapper">
+  {% if site.platforms %}
+  <ul class="link">
+    {%- for platform in site.platforms %}
+    <li><a href="{{ platform.link }}">{{ platform.icon }}&nbsp;{{ platform.name }}</a></li>
+    {%- endfor %}
+  </ul>
+  {% endif %}
+
+  {% if site.navigation %}
+  <ul class="content">
+  {%- for item in site.navigation %}
+    <li><a href="{{ item.link }}">{{ item.name }}</a>
+        {% if item.sublist %}
+        <ul class="sublist">
+            {%- for subitem in item.sublist %}
+            <li><a href="{{ subitem.link }}" id="{{ item.name | downcase | replace: ' ', '' | replace: '-', '' | replace: '_', '' }}">{{ subitem.name }}</a></li>
+            {%- endfor %}
+        </ul>
+        {% endif %}
+    </li>
+  {%- endfor %}
+  </ul>
+  {% endif %}
+</div>

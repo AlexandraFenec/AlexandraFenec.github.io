@@ -1,0 +1,110 @@
+---
+---
+
+@import "jekyll-theme-minimalistic";
+
+@media screen and (max-width: 700px){
+  .box {
+    width: 70%;
+  }
+  .popup {
+    width: 70%;
+  }
+}
+
+.overlay {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(0, 0, 0, 0.7);
+  transition: opacity 500ms;
+  visibility: hidden;
+  opacity: 0;
+}
+
+.overlay:target {
+  visibility: visible;
+  opacity: 1;
+}
+
+.popup {
+  margin: 70px auto;
+  padding: 20px;
+  background: #fff;
+  border-radius: 5px;
+  width: 30%;
+  position: relative;
+  transition: all 1s ease-in-out;
+}
+
+.popup .close {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  transition: all 200ms;
+  font-size: 30px;
+  font-weight: bold;
+  text-decoration: none;
+  color: #333;
+}
+
+.popup .close:hover {
+  color: #06D85F;
+}
+
+.popup .content {
+  padding-right: 20px;
+  max-height: 30%;
+  overflow: auto;
+  font: 15px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.gallery {
+    column-count: 2; /* Number of columns */
+    column-gap: 10px; /* Space between columns */
+}
+
+.gallery-item::after {
+    content: '';
+    display: block;
+    height: 5px;
+}
+
+.gallery-item {
+    break-inside: avoid; /* Prevent items from breaking between columns */
+    margin-bottom: 10px; /* Space between rows */
+}
+
+.gallery-item img {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Add shadow to images */
+    background-color: #fff; /* White background for better contrast */
+}
+
+.no-shadow .gallery-item img {
+    box-shadow: none; /* Убирает тень */
+}
+
+#simple_gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+#simple_gallery a {
+  margin: 10px;
+  display: block;
+  width: 150px;
+}
+
+#simple_gallery img {
+  width: 100%;
+  height: auto;
+  border-radius: 5px;
+  transition: transform 0.3s ease-in-out;
+}
+
+#simple_gallery img:hover {
+  transform: scale(1.05);
+}
