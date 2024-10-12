@@ -36,8 +36,9 @@ _Some images contain watermarks as per the client’s request for displaying the
   <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/draco_SquirrelDealer.jpg" alt="Draco Squirrel Dealer"></div>
 </div>
 
-<img src="/assets/images/Portfolio/GameDev%20Projects/islands_drako.jpg" alt="Islands Draco"  width="100%">
-
+<div class="gallery" style="column-count: 1;">
+  <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/islands_drako.jpg" alt="Island Draco"></div>
+</div>>
 <br>
 
 ## Animation Projects
@@ -52,10 +53,11 @@ _Some images contain watermarks as per the client’s request for displaying the
   <div class="gallery-item"><img src="/assets/images/Portfolio/Animation%20Projects/monster.JPG" alt="Monster"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/Animation%20Projects/monstr_emotions.JPG" alt="Monster Emotions"></div>
 </div>
-<img src="/assets/images/Portfolio/Animation%20Projects/bird_stages.JPG" alt="Bird Stages"  width="100%">
-<img src="/assets/images/Portfolio/Animation%20Projects/village_cartoon.jpg" alt="Village Cartoon"  width="100%">
 
-
+<div class="gallery" style="column-count: 1;">
+  <div class="gallery-item"><img src="/assets/images/Portfolio/Animation%20Projects/bird_stages.JPG" alt="Bird Stages"></div>
+  <div class="gallery-item"><img src="/assets/images/Portfolio/Animation%20Projects/village_cartoon.jpg" alt="Village Cartoon"></div>
+</div>
 <br>
 
 ## Seamless Design
