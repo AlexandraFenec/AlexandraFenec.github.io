@@ -1,10 +1,8 @@
 # Portfolio
 
-Welcome to my portfolio! My name is Tatiana Vanchurina, I am an artist and an illustrator with experience working on
-various projects for a wide range of clients. I specialize in 2D artistry. My main focus revolves around creating unique
-characters, elements, and environments for animations, computer games, book illustrations, and various publications.
-Additionally, I have a strong inclination toward working in vector graphics, which allows for greater precision and
-scalability in realizing my creative ideas.
+Welcome to my portfolio! I am an artist and illustrator based in the Netherlands, with experience working on various
+projects for a wide range of clients. I specialize in 2D artistry, focusing on creating unique characters, elements, and
+environments for animations, computer games, book illustrations, and various publications.
 
 _Some images contain watermarks as per the client’s request for displaying them publicly._
 
