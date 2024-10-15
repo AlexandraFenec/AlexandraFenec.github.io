@@ -37,6 +37,8 @@ navigation:
     sublist:
       - name: Books
         link: /projects/books.html
+      - name: Royal Mint
+        link: /projects/royal_mint.html
 
   - name: Sleeping cat
     link: /sleeping_cat.html
