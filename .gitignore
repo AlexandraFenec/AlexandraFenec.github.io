@@ -5,3 +5,7 @@ Gemfile.lock
 .aider*
 
 .DS_Store
+
+*.crt
+
+*.key

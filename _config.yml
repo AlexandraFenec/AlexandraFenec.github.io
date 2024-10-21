@@ -39,6 +39,8 @@ navigation:
         link: /projects/books.html
       - name: Royal Mint
         link: /projects/royal_mint.html
+      - name: Muffin Socks
+        link: /projects/muffin_socks.html
 
   - name: Sleeping cat
     link: /sleeping_cat.html
