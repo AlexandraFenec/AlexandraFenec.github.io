@@ -41,6 +41,8 @@ navigation:
         link: /projects/royal_mint.html
       - name: Muffin Socks
         link: /projects/muffin_socks.html
-
+      - name: JollyWoo
+        link: /projects/jollywoo.html
+        
   - name: Sleeping cat
     link: /sleeping_cat.html
