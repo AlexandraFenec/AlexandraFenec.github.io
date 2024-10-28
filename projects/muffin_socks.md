@@ -20,7 +20,7 @@ making it easier for animators to work with.
 Illustration
 
 <div class="simple_gallery">
-  <div class="item"><img src="/assets/images/Projects/Muffin%20Socks/village_cartoon.png" alt="Village" width="100%"></div>
+  <div class="item"><img src="/assets/images/Portfolio/Animation%20Projects/village_cartoon.jpg" alt="Village" width="100%"></div>
 </div>
 
 <br>
