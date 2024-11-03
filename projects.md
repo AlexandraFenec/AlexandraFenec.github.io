@@ -1,21 +1,28 @@
 # Projects
 
-<ul id="projects-list"></ul>
-
-<script>
-    function loadProjects() {
-        const projectsList = document.getElementById('projects-list');
-        const projectElements = document.querySelectorAll('.sublist [id^="project"]');
-      
-        projectElements.forEach(element => {
-            const listItem = document.createElement('li');
-            const link = document.createElement('a');
-            link.href = element.getAttribute('href');
-            link.innerHTML = element.innerHTML;
-            listItem.appendChild(link);
-            projectsList.appendChild(listItem);
-        });
-    }
-    
-    document.addEventListener('DOMContentLoaded', loadProjects);
-</script>
+<div class="projects-container">
+    <div class="project">
+        <a href="/projects/books.html">
+            <div class="project-title">Books</div>
+            <img src="/assets/images/Projects/Books/books_banner.jpg" alt="Books">
+        </a>
+    </div>
+    <div class="project">
+        <a href="/projects/royal_mint.html">
+            <div class="project-title">The Royal Mint</div>
+            <img src="/assets/images/Projects/Royal%20Mint/royal_banner.jpg" alt="The Royal Mint">
+        </a>
+    </div>
+    <div class="project">
+        <a href="/projects/muffin_socks.html">
+            <div class="project-title">Muffin Socks</div>
+            <img src="/assets/images/Projects/Muffin%20Socks/muffinsocks_banner.jpg" alt="Muffin Socks">
+        </a>
+    </div>
+    <div class="project">
+        <a href="/projects/jollywoo.html">
+            <div class="project-title">JollyWoo</div>
+            <img src="/assets/images/Projects/JollyWoo/jollywoo_banner.jpg" alt="JollyWoo">
+        </a>
+    </div>
+</div>
