@@ -43,19 +43,22 @@ _Some images contain watermarks as per the client’s request for displaying the
 
 <div class="gallery">
   <div class="gallery-item"><img src="/assets/images/Portfolio/Animation%20Projects/character_boy.jpg" alt="Character Boy"></div>
-  <div class="gallery-item"><img src="/assets/images/Portfolio/Animation%20Projects/girl_emotions.jpg" alt="Girl Emotions"></div>
+  <div class="gallery-item"><img src="/assets/images/Portfolio/Animation%20Projects/hairless_monster.JPG" alt="Hairless Monster"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/Animation%20Projects/plane_kids.JPG" alt="Plane Kids"></div>
+  <div class="gallery-item"><img src="/assets/images/Portfolio/Animation%20Projects/girl_emotions.jpg" alt="Girl Emotions"></div>
+  <div class="gallery-item"><img src="/assets/images/Portfolio/Animation%20Projects/park_cartoon.jpg" alt="Park Cartoon"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/Animation%20Projects/bus.jpg" alt="Bus"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/Animation%20Projects/cart.JPG" alt="Cart"></div>
-  <div class="gallery-item"><img src="/assets/images/Portfolio/Animation%20Projects/park_cartoon.jpg" alt="Park Cartoon"></div>
-  <div class="gallery-item"><img src="/assets/images/Portfolio/Animation%20Projects/monster.JPG" alt="Monster"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/Animation%20Projects/monstr_emotions.JPG" alt="Monster Emotions"></div>
 </div>
 
 <div class="gallery" style="column-count: 1;">
-  <div class="gallery-item"><img src="/assets/images/Portfolio/Animation%20Projects/bird_stages.JPG" alt="Bird Stages"></div>
-  <div class="gallery-item"><img src="/assets/images/Portfolio/Animation%20Projects/village_cartoon.jpg" alt="Village Cartoon"></div>
+  <div class="item"><img src="/assets/images/Portfolio/Animation%20Projects/kitchen.JPG" alt="Kitchen"></div>
+  <div class="item"><img src="/assets/images/Portfolio/Animation%20Projects/night_forest.JPG" alt="Night Forest"></div>
+  <div class="item"><img src="/assets/images/Portfolio/Animation%20Projects/bird_stages.JPG" alt="Bird Stages"></div>
+  <div class="item"><img src="/assets/images/Portfolio/Animation%20Projects/village_cartoon.jpg" alt="Village Cartoon"></div>
 </div>
+
 <br>
 
 ## Seamless Design
