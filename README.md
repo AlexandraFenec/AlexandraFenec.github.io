@@ -14,6 +14,7 @@ _Some images contain watermarks as per the client’s request for displaying the
   <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/draco_squirel_baby.jpg" alt="Draco Squirrel Baby"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/girl_avatar.JPG" alt="Girl Avatar"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/draco_zuma.jpg" alt="Draco Zuma"></div>
+  <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/cauldron.JPG" alt="Cauldron"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/draco_dog.jpg" alt="Draco Dog"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/draco_owl_baby.jpg" alt="Draco Owl Baby"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/crystal.jpg" alt="Crystal"></div>
