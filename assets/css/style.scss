@@ -78,12 +78,16 @@
 }
 
 .gallery-item img {
+
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Add shadow to images */
   background-color: #fff; /* White background for better contrast */
 }
 
 .no-shadow .gallery-item img {
   box-shadow: none;
+}
+.border .gallery-item img {
+  border: 2px solid #c0e3f2; /* Add border to items */
 }
 
 #simple_gallery {

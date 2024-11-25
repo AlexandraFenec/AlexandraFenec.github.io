@@ -25,4 +25,10 @@
             <img src="/assets/images/Projects/JollyWoo/jollywoo_banner.jpg" alt="JollyWoo">
         </a>
     </div>
+    <div class="project">
+        <a href="/projects/avocado_couple.html">
+            <div class="project-title">Avocado Couple</div>
+            <img src="/assets/images/Projects/Avocado%20Couple/avocado_banner.jpg" alt="Avocado Couple">
+        </a>
+    </div>
 </div>

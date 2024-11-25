@@ -43,6 +43,7 @@ navigation:
         link: /projects/muffin_socks.html
       - name: JollyWoo
         link: /projects/jollywoo.html
-        
+      - name: Avocado Couple
+        link: /projects/avocado_couple.html
   - name: Sleeping cat
     link: /sleeping_cat.html
