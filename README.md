@@ -37,10 +37,15 @@ _Some images contain watermarks as per the client’s request for displaying the
 
 <div class="gallery" style="column-count: 1;">
   <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/islands_drako.jpg" alt="Island Draco"></div>
-</div>>
+</div>
 <br>
 
 ## Animation Projects
+
+
+<div class="gallery" style="column-count: 1;">
+  <div class="gallery-item"><img src="/assets/images/Portfolio/Animation%20Projects/field.jpg" alt="Field"></div>
+</div>
 
 <div class="gallery">
   <div class="gallery-item"><img src="/assets/images/Portfolio/Animation%20Projects/character_boy.jpg" alt="Character Boy"></div>
