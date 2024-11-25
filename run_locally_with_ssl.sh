@@ -1,0 +1,1 @@
+bundle exec jekyll serve --ssl-key jekyll.key --ssl-cert jekyll.crt --host $(ipconfig getifaddr en0)
