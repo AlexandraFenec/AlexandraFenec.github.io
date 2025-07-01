@@ -42,7 +42,6 @@ _Some images contain watermarks as per the client’s request for displaying the
 
 ## Animation Projects
 
-
 <div class="gallery" style="column-count: 1;">
   <div class="gallery-item"><img src="/assets/images/Portfolio/Animation%20Projects/field.jpg" alt="Field"></div>
 </div>
@@ -88,6 +87,10 @@ _Some images contain watermarks as per the client’s request for displaying the
 
 ## Book Illustrations
 
+<div class="gallery" style="column-count: 1;">
+  <div class="gallery-item"><img src="/assets/images/Portfolio/Book%20Illustrations/bottom_line_bg_line_2.PNG" alt="Bottom"></div>
+</div>
+
 <div class="gallery">
   <div class="gallery-item"><img src="/assets/images/Portfolio/Book%20Illustrations/london_fox.JPG" alt="London Fox"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/Book%20Illustrations/how_cover.jpg" alt="Cover"></div>
@@ -99,9 +102,12 @@ _Some images contain watermarks as per the client’s request for displaying the
 ## Illustrations for websites, vector
 
 <div class="gallery">
-  <div class="gallery-item"><img src="/assets/images/Portfolio/Illustrations%20for%20websites,%20vector/space.jpg" alt="Space"></div>
-  <div class="gallery-item"><img src="/assets/images/Portfolio/Illustrations%20for%20websites,%20vector/doctor_call.jpg" alt="Doctor Call"></div>
+  <div class="gallery-item"><img src="/assets/images/Portfolio/Illustrations%20for%20websites,%20vector/doctor.png" alt="Doctor"></div>
+  <div class="gallery-item"><img src="/assets/images/Portfolio/Illustrations%20for%20websites,%20vector/organs.png" alt="Organs"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/Illustrations%20for%20websites,%20vector/programmer.jpg" alt="Programmer"></div>
+  <div class="gallery-item"><img src="/assets/images/Portfolio/Illustrations%20for%20websites,%20vector/space.jpg" alt="Space"></div>
+  <div class="gallery-item"><img src="/assets/images/Portfolio/Illustrations%20for%20websites,%20vector/heart.png" alt="Heart"></div>
+  <div class="gallery-item"><img src="/assets/images/Portfolio/Illustrations%20for%20websites,%20vector/doctor_call.jpg" alt="Doctor Call"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/Illustrations%20for%20websites,%20vector/home_office_2.jpg" alt="Home Office"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/Illustrations%20for%20websites,%20vector/plane.jpg" alt="Plane"></div>
 </div>
