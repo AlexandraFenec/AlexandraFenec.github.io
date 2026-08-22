@@ -19,7 +19,6 @@ github:
 
 navigation:
   - name: "2D Artist | Vector Illustrator"
-    link: /
     sublist:
       - name: Animation Art
         link: /#animation-art

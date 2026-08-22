@@ -10,7 +10,7 @@
   {% if site.navigation %}
   <ul class="content">
   {%- for item in site.navigation %}
-    <li><a href="{{ item.link }}">{{ item.name }}</a>
+    <li>{% if item.link %}<a href="{{ item.link }}">{{ item.name }}</a>{% else %}<span class="nav-heading">{{ item.name }}</span>{% endif %}
         {% if item.sublist %}
         <ul class="sublist">
             {%- for subitem in item.sublist %}
