@@ -23,23 +23,28 @@ Characters, environments and props created for animation projects
   <div class="gallery-item"><img src="/assets/images/Portfolio/Animation%20Projects/cart.JPG" alt="Cart"></div>
  </div>
 
-<div class="gallery" style="column-count: 1;">
+<div class="gallery" style="column-count: 2;">
   <div class="gallery-item"><img src="/assets/images/Portfolio/Animation%20Projects/field.jpg" alt="Field"></div>
-  <div class="gallery-item"><img src="/assets/images/Portfolio/Animation%20Projects/park_cartoon.jpg" alt="Park Cartoon"></div>
+  <div class="item"><img src="/assets/images/Portfolio/Animation%20Projects/night_forest.JPG" alt="Night Forest"></div>
   <div class="item"><img src="/assets/images/Portfolio/Animation%20Projects/kitchen.JPG" alt="Kitchen"></div>
+  <div class="gallery-item"><img src="/assets/images/Portfolio/Animation%20Projects/park_cartoon.jpg" alt="Park Cartoon"></div>
   <div class="item"><img src="/assets/images/Portfolio/Animation%20Projects/bg_class_room.JPG" alt="Class Room"></div>
   <div class="item"><img src="/assets/images/Portfolio/Animation%20Projects/bg_stage.JPG" alt="Stage"></div>
-  <div class="item"><img src="/assets/images/Portfolio/Animation%20Projects/park.JPG" alt="Park"></div>
+</div>
+
+<div class="gallery" style="column-count: 1;">  
   <div class="item"><img src="/assets/images/Portfolio/Animation%20Projects/street_cartoon.JPG" alt="Street"></div>
+  <div class="item"><img src="/assets/images/Portfolio/Animation%20Projects/park.JPG" alt="Park"></div>
+  <div class="item"><img src="/assets/images/Portfolio/Animation%20Projects/village_cartoon.jpg" alt="Village Cartoon"></div>
   <div class="item"><img src="/assets/images/Portfolio/Animation%20Projects/bg_night_forest.jpg" alt="Night Forest"></div>
+</div>
+
+<div class="gallery" style="column-count: 2;">
   <div class="item"><img src="/assets/images/Portfolio/Animation%20Projects/bg_mermaid_bathroom.jpg" alt="Mermaid Bathroom"></div>
   <div class="item"><img src="/assets/images/Portfolio/Animation%20Projects/bg_minecraft_Island.jpg" alt="Minecraft Island"></div>
   <div class="item"><img src="/assets/images/Portfolio/Animation%20Projects/bg_jacuzzi.JPG" alt="Jacuzzi"></div>
   <div class="item"><img src="/assets/images/Portfolio/Animation%20Projects/bg_mansion_office.jpg" alt="Mansion Office"></div>
-  <div class="item"><img src="/assets/images/Portfolio/Animation%20Projects/night_forest.JPG" alt="Night Forest"></div>
-  <div class="item"><img src="/assets/images/Portfolio/Animation%20Projects/village_cartoon.jpg" alt="Village Cartoon"></div>
 </div>
-
 <br>
 
 ## Educational & Medical Illustration
