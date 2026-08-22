@@ -50,8 +50,8 @@ _Some images contain watermarks as per the client’s request for displaying the
   <div class="gallery-item"><img src="/assets/images/Portfolio/Animation%20Projects/bus.jpg" alt="Bus"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/Animation%20Projects/cart.JPG" alt="Cart"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/Animation%20Projects/brain.jpg" alt="Brain"></div>
-  <div class="gallery-item"><img src="/assets/images/Portfolio/Animation%20Projects/fish.jpg" alt="Fish"></div>
-  <div class="gallery-item"><img src="/assets/images/Portfolio/Animation%20Projects/numbers.jpg" alt="Numbers"></div>
+  <div class="gallery-item"><img src="/assets/images/Portfolio/Animation%20Projects/fish.JPG" alt="Fish"></div>
+  <div class="gallery-item"><img src="/assets/images/Portfolio/Animation%20Projects/numbers.JPG" alt="Numbers"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/Animation%20Projects/monstr_emotions.JPG" alt="Monster Emotions"></div>
 </div>
 
