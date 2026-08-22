@@ -77,6 +77,7 @@ Vector and raster illustrations for children’s educational content, health edu
   <div class="gallery-item"><img src="/assets/images/Portfolio/Illustrations%20for%20websites,%20vector/space.jpg" alt="Space"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/Illustrations%20for%20websites,%20vector/plane.jpg" alt="Plane"></div>
 </div>
+<br>
 
 ## Surface Pattern Design
 
@@ -99,7 +100,6 @@ Seamless patterns for apparel and other surfaces.
   <div class="gallery-item"><img src="/assets/images/Portfolio/Seamless%20Design/pinguins.png" alt="Pinguins"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/Seamless%20Design/ice.jpg" alt="Ice Cream"></div>
 </div>
-
 <br>
 
 ## Packaging Illustration
@@ -112,7 +112,7 @@ Vector illustrations created for product packaging
   <div class="gallery-item"><img src="/assets/images/Portfolio/Packaging%20Illustrations/once_upon.jpg" alt="Once Upon Tea Time"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/Packaging%20Illustrations/tea_logo.png" alt="Logo Tea Tales"></div>
   </div>
-
+<br>
 ## Children’s Book Illustration
 
 Cover and interior illustrations for children’s books.
