@@ -132,6 +132,8 @@ Cover and interior illustrations for children’s books.
   <div class="gallery-item"><img src="/assets/images/Portfolio/Book%20Illustrations/origami_cover.jpg" alt="Origami Cover"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/Book%20Illustrations/origami_page.jpg" alt="Origami page"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/Book%20Illustrations/origami_page2.jpg" alt="Origami page 2"></div>
+  </div>
+<div class="gallery">
   <div class="gallery-item"><img src="/assets/images/Portfolio/Book%20Illustrations/london_fox.JPG" alt="London Fox"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/Book%20Illustrations/northen.JPG" alt="Northen"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/Book%20Illustrations/samara_cover.jpg" alt="Samara Cover"></div>
