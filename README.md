@@ -120,8 +120,8 @@ Cover and interior illustrations for children’s books.
 
 <div class="gallery">
   <div class="gallery-item"><img src="/assets/images/Portfolio/Book%20Illustrations/how_cover.jpg" alt="How to draw Cover"></div>
-  <div class="gallery-item"><img src="/assets/images/Portfolio/Book%20Illustrations/howtodraw_page.jpg" alt="How to draw page"></div>
-  <div class="gallery-item"><img src="/assets/images/Portfolio/Book%20Illustrations/howtodraw_page.jpg" alt="How to draw page"></div>
+  <div class="gallery-item"><img src="/assets/images/Portfolio/Book%20Illustrations/howtodraw_page.jpg" alt="How to draw page 1"></div>
+  <div class="gallery-item"><img src="/assets/images/Portfolio/Book%20Illustrations/howtodraw_page2.jpg" alt="How to draw page 2"></div>
 </div>
 
 <div class="gallery" style="column-count: 1;">
@@ -129,9 +129,10 @@ Cover and interior illustrations for children’s books.
 </div>
 
 <div class="gallery">
-  <div class="gallery-item"><img src="/assets/images/Portfolio/Book%20Illustrations/london_fox.JPG" alt="London Fox"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/Book%20Illustrations/origami_cover.jpg" alt="Origami Cover"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/Book%20Illustrations/origami_page.jpg" alt="Origami page"></div>
+  <div class="gallery-item"><img src="/assets/images/Portfolio/Book%20Illustrations/origami_page2.jpg" alt="Origami page 2"></div>
+  <div class="gallery-item"><img src="/assets/images/Portfolio/Book%20Illustrations/london_fox.JPG" alt="London Fox"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/Book%20Illustrations/northen.JPG" alt="Northen"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/Book%20Illustrations/samara_cover.jpg" alt="Samara Cover"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/Book%20Illustrations/abc_1.jpg" alt="ABC page 1"></div>
