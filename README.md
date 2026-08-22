@@ -152,27 +152,34 @@ Cover and interior illustrations for children’s books.
 
 Characters, environments and props created for a graphic novel game project.
 
-<div class="gallery">
+<div class="gallery" style="column-count: 3;">
   <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/draco_pinky.jpg" alt="Draco Pinky"></div>
-  <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/draco_pony_angry.jpg" alt="Draco Pony Angry"></div>
-  <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/draco_squirel_baby.jpg" alt="Draco Squirrel Baby"></div>
-  <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/draco_zuma.jpg" alt="Draco Zuma"></div>
-  <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/cauldron.JPG" alt="Cauldron"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/draco_dog.jpg" alt="Draco Dog"></div>
+  <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/draco_pony_angry.jpg" alt="Draco Pony Angry"></div>
+  <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/draco_zuma.jpg" alt="Draco Zuma"></div>
+  <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/draco_squirel_baby.jpg" alt="Draco Squirrel Baby"></div>
+  <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/draco_pony_pink.jpg" alt="Draco Pony Pink"></div>
+ </div>
+
+<div class="gallery" style="column-count: 2;">
+  <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/draco_lira.jpg" alt="Draco Lira"></div>
+  <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/draco_tod.jpg" alt="Draco Tod"></div>
+  <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/draco_jhon.jpg" alt="Draco Jhon"></div>
+  <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/draco_mira.jpg" alt="Draco Mira"></div>
+  <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/draco_SquirrelDealer.jpg" alt="Draco Squirrel Dealer"></div>
+  <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/draco_grandfa_fin.jpg" alt="Draco Grandfa"></div>
+ </div>
+
+<div class="gallery">
+  <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/cauldron.JPG" alt="Cauldron"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/draco_owl_baby.jpg" alt="Draco Owl Baby"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/crystal.jpg" alt="Crystal"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/books.jpg" alt="Books"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/draco_SquirrelBig.jpg" alt="Draco Squirrel"></div>
-  <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/draco_grandfa_fin.jpg" alt="Draco Grandfa"></div>
-  <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/draco_lira.jpg" alt="Draco Lira"></div>
-  <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/draco_pony_pink.jpg" alt="Draco Pony Pink"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/draco_owl_father.jpg" alt="Draco Owl Father"></div>
-  <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/draco_tod.jpg" alt="Draco Tod"></div>
-  <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/draco_mira.jpg" alt="Draco Mira"></div>
-  <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/draco_jhon.jpg" alt="Draco Jhon"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/flowers.jpg" alt="Flowers"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/key.jpg" alt="Key"></div>
-  <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/draco_SquirrelDealer.jpg" alt="Draco Squirrel Dealer"></div>
+  
 </div>
 
 <div class="gallery" style="column-count: 1;">
