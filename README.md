@@ -12,19 +12,20 @@ Characters, environments and props created for animation projects
 
 <div class="gallery">
   <div class="gallery-item"><img src="/assets/images/Portfolio/Animation%20Projects/character_boy.jpg" alt="Character Boy"></div>
-  <div class="gallery-item"><img src="/assets/images/Portfolio/Animation%20Projects/plane_kids.JPG" alt="Plane Kids"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/Animation%20Projects/girl_emotions.jpg" alt="Girl Emotions"></div>
-  <div class="gallery-item"><img src="/assets/images/Portfolio/Animation%20Projects/park_cartoon.jpg" alt="Park Cartoon"></div>
-  <div class="gallery-item"><img src="/assets/images/Portfolio/Animation%20Projects/bus.jpg" alt="Bus"></div>
-  <div class="gallery-item"><img src="/assets/images/Portfolio/Animation%20Projects/cart.JPG" alt="Cart"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/Animation%20Projects/brain.jpg" alt="Brain"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/Animation%20Projects/fish.JPG" alt="Fish"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/Animation%20Projects/numbers.JPG" alt="Numbers"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/Animation%20Projects/monstr_emotions.JPG" alt="Monster Emotions"></div>
-</div>
+  <div class="item"><img src="/assets/images/Portfolio/Animation%20Projects/bird_stages.JPG" alt="Bird Stages"></div>
+  <div class="gallery-item"><img src="/assets/images/Portfolio/Animation%20Projects/plane_kids.JPG" alt="Plane Kids"></div>
+  <div class="gallery-item"><img src="/assets/images/Portfolio/Animation%20Projects/bus.jpg" alt="Bus"></div>
+  <div class="gallery-item"><img src="/assets/images/Portfolio/Animation%20Projects/cart.JPG" alt="Cart"></div>
+ </div>
 
 <div class="gallery" style="column-count: 1;">
   <div class="gallery-item"><img src="/assets/images/Portfolio/Animation%20Projects/field.jpg" alt="Field"></div>
+  <div class="gallery-item"><img src="/assets/images/Portfolio/Animation%20Projects/park_cartoon.jpg" alt="Park Cartoon"></div>
   <div class="item"><img src="/assets/images/Portfolio/Animation%20Projects/kitchen.JPG" alt="Kitchen"></div>
   <div class="item"><img src="/assets/images/Portfolio/Animation%20Projects/bg_class_room.JPG" alt="Class Room"></div>
   <div class="item"><img src="/assets/images/Portfolio/Animation%20Projects/bg_stage.JPG" alt="Stage"></div>
@@ -36,7 +37,6 @@ Characters, environments and props created for animation projects
   <div class="item"><img src="/assets/images/Portfolio/Animation%20Projects/bg_jacuzzi.JPG" alt="Jacuzzi"></div>
   <div class="item"><img src="/assets/images/Portfolio/Animation%20Projects/bg_mansion_office.jpg" alt="Mansion Office"></div>
   <div class="item"><img src="/assets/images/Portfolio/Animation%20Projects/night_forest.JPG" alt="Night Forest"></div>
-  <div class="item"><img src="/assets/images/Portfolio/Animation%20Projects/bird_stages.JPG" alt="Bird Stages"></div>
   <div class="item"><img src="/assets/images/Portfolio/Animation%20Projects/village_cartoon.jpg" alt="Village Cartoon"></div>
 </div>
 
