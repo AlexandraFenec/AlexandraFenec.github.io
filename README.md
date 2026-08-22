@@ -108,12 +108,10 @@ Vector illustrations created for product packaging
 
 <div class="gallery">
   <div class="gallery-item"><img src="/assets/images/Portfolio/Packaging%20Illustrations/dark_romance.jpg" alt="Dark Romance"></div>
-  <div class="gallery-item"><img src="/assets/images/Portfolio/Packaging%20Illustrations/once_upon.jpg" alt="Once Upon Tea Time"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/Packaging%20Illustrations/enchanted_rose.jpg" alt="Enchanted Rose"></div>
+  <div class="gallery-item"><img src="/assets/images/Portfolio/Packaging%20Illustrations/once_upon.jpg" alt="Once Upon Tea Time"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/Packaging%20Illustrations/tea_logo.png" alt="Logo Tea Tales"></div>
-  
-  
-</div>
+  </div>
 
 ## Children’s Book Illustration
 
