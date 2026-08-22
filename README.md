@@ -82,7 +82,7 @@ Vector and raster illustrations for children’s educational content, health edu
 
 Seamless patterns for apparel and other surfaces.
 
-<div class="gallery">
+<div class="gallery" style="column-count: 3;">
   <div class="gallery-item"><img src="/assets/images/Portfolio/Seamless%20Design/feathers.jpg" alt="Feathers"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/Seamless%20Design/mushrooms.png" alt="Mushrooms"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/Seamless%20Design/pinguins_black.png" alt="Penguins"></div>
