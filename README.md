@@ -135,22 +135,17 @@ Cover and interior illustrations for children’s books.
   </div>
 
 <div class="gallery">
-  <div class="gallery-item"><img src="/assets/images/Portfolio/Book%20Illustrations/london_fox.JPG" alt="London Fox"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/Book%20Illustrations/northen.JPG" alt="Northen"></div>
-  </div>
+  <div class="gallery-item"><img src="/assets/images/Portfolio/Book%20Illustrations/london_fox.JPG" alt="London Fox"></div>
+</div>
 
 <div class="gallery">
   <div class="gallery-item"><img src="/assets/images/Portfolio/Book%20Illustrations/abc_1.jpg" alt="ABC page 1"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/Book%20Illustrations/farm.jpg" alt="Farm Animals"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/Book%20Illustrations/abc_2.jpg" alt="ABC page 2"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/Book%20Illustrations/samara_cover.jpg" alt="Samara Cover"></div>
- 
-  </div>
+ </div>
 
- <div class="gallery">
-  <div class="gallery-item"><img src="/assets/images/Portfolio/Book%20Illustrations/flowers_1.jpg" alt="Flowers 1"></div>
-  <div class="gallery-item"><img src="/assets/images/Portfolio/Book%20Illustrations/flowers_2.jpg" alt="Flowers 2"></div>
-</div>
 <br>
 
 ## Game Art
