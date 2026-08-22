@@ -12,7 +12,6 @@ _Some images contain watermarks as per the client’s request for displaying the
   <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/draco_pinky.jpg" alt="Draco Pinky"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/draco_pony_angry.jpg" alt="Draco Pony Angry"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/draco_squirel_baby.jpg" alt="Draco Squirrel Baby"></div>
-  <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/girl_avatar.JPG" alt="Girl Avatar"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/draco_zuma.jpg" alt="Draco Zuma"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/cauldron.JPG" alt="Cauldron"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/draco_dog.jpg" alt="Draco Dog"></div>
@@ -22,15 +21,11 @@ _Some images contain watermarks as per the client’s request for displaying the
   <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/draco_SquirrelBig.jpg" alt="Draco Squirrel"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/draco_grandfa_fin.jpg" alt="Draco Grandfa"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/draco_lira.jpg" alt="Draco Lira"></div>
-  <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/draco_roger.jpg" alt="Draco Roger"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/draco_pony_pink.jpg" alt="Draco Pony Pink"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/draco_owl_father.jpg" alt="Draco Owl Father"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/draco_tod.jpg" alt="Draco Tod"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/draco_mira.jpg" alt="Draco Mira"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/draco_jhon.jpg" alt="Draco Jhon"></div>
-  <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/shaman.jpg" alt="Shaman"></div>
-  <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/set_of_O_2.jpg" alt="O 2"></div>
-  <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/set_of_O_1.jpg" alt="O 1"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/flowers.jpg" alt="Flowers"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/draco_SquirrelDealer.jpg" alt="Draco Squirrel Dealer"></div>
 </div>
@@ -48,7 +43,6 @@ _Some images contain watermarks as per the client’s request for displaying the
 
 <div class="gallery">
   <div class="gallery-item"><img src="/assets/images/Portfolio/Animation%20Projects/character_boy.jpg" alt="Character Boy"></div>
-  <div class="gallery-item"><img src="/assets/images/Portfolio/Animation%20Projects/hairless_monster.JPG" alt="Hairless Monster"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/Animation%20Projects/plane_kids.JPG" alt="Plane Kids"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/Animation%20Projects/girl_emotions.jpg" alt="Girl Emotions"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/Animation%20Projects/park_cartoon.jpg" alt="Park Cartoon"></div>
@@ -95,7 +89,6 @@ _Some images contain watermarks as per the client’s request for displaying the
   <div class="gallery-item"><img src="/assets/images/Portfolio/Book%20Illustrations/london_fox.JPG" alt="London Fox"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/Book%20Illustrations/how_cover.jpg" alt="Cover"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/Book%20Illustrations/northen.JPG" alt="Northen"></div>
-  <div class="gallery-item"><img src="/assets/images/Portfolio/Book%20Illustrations/acid_trip.JPG" alt="Acid Trip"></div>
 </div>
 <br>
 
