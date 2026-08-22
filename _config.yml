@@ -1,7 +1,7 @@
 remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 
 title: Tatiana Vanchurina
-description: Portfolio
+description: "2D Artist | Vector Illustrator"
 email: t.vanchurina@gmail.com
 logo: /assets/images/ava.png
 favicon: true
@@ -18,32 +18,34 @@ github:
   is_user_page: false
 
 navigation:
-  - name: Portfolio
+  - name: "2D Artist | Vector Illustrator"
     link: /
     sublist:
-      - name: GameDev
-        link: /#gamedev-projects
-      - name: Animation Projects
-        link: /#animation-projects
-      - name: Seamless Design
-        link: /#seamless-design
-      - name: Book Illustrations
-        link: /#book-illustrations
-      - name: Vector
-        link: /#illustrations-for-websites-vector
+      - name: Animation Art
+        link: /#animation-art
+      - name: Educational & Medical Illustration
+        link: /#educational--medical-illustration
+      - name: Surface Pattern Design
+        link: /#surface-pattern-design
+      - name: Packaging Illustration
+        link: /#packaging-illustration
+      - name: Children's Book Illustration
+        link: /#childrens-book-illustration
+      - name: Game Art
+        link: /#game-art
 
   - name: Projects
     link: /projects.html
     sublist:
+      - name: 'Animated series "Muffin Socks"'
+        link: /projects/muffin_socks.html
+      - name: 'Animated series "Avocado Couple"'
+        link: /projects/avocado_couple.html
+      - name: 'Animated series "Jolly Woo"'
+        link: /projects/jollywoo.html
+      - name: 'Visual novel "Royal Mint"'
+        link: /projects/royal_mint.html
       - name: Books
         link: /projects/books.html
-      - name: Royal Mint
-        link: /projects/royal_mint.html
-      - name: Muffin Socks
-        link: /projects/muffin_socks.html
-      - name: JollyWoo
-        link: /projects/jollywoo.html
-      - name: Avocado Couple
-        link: /projects/avocado_couple.html
   - name: Sleeping cat
     link: /sleeping_cat.html

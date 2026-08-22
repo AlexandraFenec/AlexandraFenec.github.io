@@ -1,12 +1,14 @@
-# Portfolio
+# 2D Artist | Vector Illustrator
 
-Welcome to my portfolio! I am an artist and illustrator based in the Netherlands, with experience working on various
-projects for a wide range of clients. I specialize in 2D artistry, focusing on creating unique characters, elements, and
-environments for animations, computer games, book illustrations, and various publications.
+I am a 2D artist and vector illustrator based in the Netherlands, with over 10 years of experience creating visual
+assets for animation, publishing, apparel, and digital projects. My work includes educational and editorial
+illustrations, characters, environments, props, patterns, and prints. I enjoy developing clear, adaptable visuals that
+communicate ideas effectively while fitting the style and needs of each project. This portfolio presents selected
+examples of my work across different formats and creative fields.
 
-_Some images contain watermarks as per the client’s request for displaying them publicly._
+## Animation Art
 
-## GameDev Projects
+Characters, environments and props created for animation projects
 
 <div class="gallery">
   <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/draco_pinky.jpg" alt="Draco Pinky"></div>
@@ -30,13 +32,6 @@ _Some images contain watermarks as per the client’s request for displaying the
   <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/key.jpg" alt="Key"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/draco_SquirrelDealer.jpg" alt="Draco Squirrel Dealer"></div>
 </div>
-
-<div class="gallery" style="column-count: 1;">
-  <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/islands_drako.jpg" alt="Island Draco"></div>
-</div>
-<br>
-
-## Animation Projects
 
 <div class="gallery" style="column-count: 1;">
   <div class="gallery-item"><img src="/assets/images/Portfolio/Animation%20Projects/field.jpg" alt="Field"></div>
@@ -73,7 +68,26 @@ _Some images contain watermarks as per the client’s request for displaying the
 
 <br>
 
-## Seamless Design
+## Educational & Medical Illustration
+
+Vector and raster illustrations for children’s educational content, health education and medical communication
+
+<div class="gallery">
+  <div class="gallery-item"><img src="/assets/images/Portfolio/Illustrations%20for%20websites,%20vector/doctor.png" alt="Doctor"></div>
+  <div class="gallery-item"><img src="/assets/images/Portfolio/Illustrations%20for%20websites,%20vector/organs.png" alt="Organs"></div>
+  <div class="gallery-item"><img src="/assets/images/Portfolio/Illustrations%20for%20websites,%20vector/programmer.jpg" alt="Programmer"></div>
+  <div class="gallery-item"><img src="/assets/images/Portfolio/Illustrations%20for%20websites,%20vector/space.jpg" alt="Space"></div>
+  <div class="gallery-item"><img src="/assets/images/Portfolio/Illustrations%20for%20websites,%20vector/heart.png" alt="Heart"></div>
+  <div class="gallery-item"><img src="/assets/images/Portfolio/Illustrations%20for%20websites,%20vector/doctor_call.jpg" alt="Doctor Call"></div>
+  <div class="gallery-item"><img src="/assets/images/Portfolio/Illustrations%20for%20websites,%20vector/home_office_2.jpg" alt="Home Office"></div>
+  <div class="gallery-item"><img src="/assets/images/Portfolio/Illustrations%20for%20websites,%20vector/plane.jpg" alt="Plane"></div>
+</div>
+
+<br>
+
+## Surface Pattern Design
+
+Seamless patterns for apparel and other surfaces.
 
 <div class="gallery">
   <div class="gallery-item"><img src="/assets/images/Portfolio/Seamless%20Design/feathers.jpg" alt="Feathers"></div>
@@ -93,7 +107,21 @@ _Some images contain watermarks as per the client’s request for displaying the
 
 <br>
 
-## Book Illustrations
+## Packaging Illustration
+
+Vector illustrations created for product packaging
+
+<!-- TODO: add images to /assets/images/Portfolio/Packaging Illustration/ and list them here -->
+<!--
+<div class="gallery">
+  <div class="gallery-item"><img src="/assets/images/Portfolio/Packaging%20Illustration/example.jpg" alt="Example"></div>
+</div>
+<br>
+-->
+
+## Children’s Book Illustration
+
+Cover and interior illustrations for children’s books.
 
 <div class="gallery" style="column-count: 1;">
   <div class="gallery-item"><img src="/assets/images/Portfolio/Book%20Illustrations/bottom_line_bg_line_2.PNG" alt="Bottom"></div>
@@ -115,28 +143,38 @@ _Some images contain watermarks as per the client’s request for displaying the
 </div>
 <br>
 
-## Illustrations for websites, vector
+## Game Art
+
+Characters, environments and props created for a graphic novel game project.
 
 <div class="gallery">
-  <div class="gallery-item"><img src="/assets/images/Portfolio/Illustrations%20for%20websites,%20vector/doctor.png" alt="Doctor"></div>
-  <div class="gallery-item"><img src="/assets/images/Portfolio/Illustrations%20for%20websites,%20vector/organs.png" alt="Organs"></div>
-  <div class="gallery-item"><img src="/assets/images/Portfolio/Illustrations%20for%20websites,%20vector/micro.jpg" alt="Micro"></div>
-  <div class="gallery-item"><img src="/assets/images/Portfolio/Illustrations%20for%20websites,%20vector/programmer.jpg" alt="Programmer"></div>
-  <div class="gallery-item"><img src="/assets/images/Portfolio/Illustrations%20for%20websites,%20vector/space.jpg" alt="Space"></div>
-  <div class="gallery-item"><img src="/assets/images/Portfolio/Illustrations%20for%20websites,%20vector/heart.png" alt="Heart"></div>
-  <div class="gallery-item"><img src="/assets/images/Portfolio/Illustrations%20for%20websites,%20vector/doctor_call.jpg" alt="Doctor Call"></div>
-  <div class="gallery-item"><img src="/assets/images/Portfolio/Illustrations%20for%20websites,%20vector/home_office_2.jpg" alt="Home Office"></div>
-  <div class="gallery-item"><img src="/assets/images/Portfolio/Illustrations%20for%20websites,%20vector/plane.jpg" alt="Plane"></div>
-  <div class="gallery-item"><img src="/assets/images/Portfolio/Illustrations%20for%20websites,%20vector/teacher.JPG" alt="Teacher"></div>
+  <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/draco_pinky.jpg" alt="Draco Pinky"></div>
+  <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/draco_pony_angry.jpg" alt="Draco Pony Angry"></div>
+  <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/draco_squirel_baby.jpg" alt="Draco Squirrel Baby"></div>
+  <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/girl_avatar.JPG" alt="Girl Avatar"></div>
+  <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/draco_zuma.jpg" alt="Draco Zuma"></div>
+  <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/cauldron.JPG" alt="Cauldron"></div>
+  <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/draco_dog.jpg" alt="Draco Dog"></div>
+  <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/draco_owl_baby.jpg" alt="Draco Owl Baby"></div>
+  <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/crystal.jpg" alt="Crystal"></div>
+  <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/books.jpg" alt="Books"></div>
+  <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/draco_SquirrelBig.jpg" alt="Draco Squirrel"></div>
+  <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/draco_grandfa_fin.jpg" alt="Draco Grandfa"></div>
+  <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/draco_lira.jpg" alt="Draco Lira"></div>
+  <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/draco_roger.jpg" alt="Draco Roger"></div>
+  <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/draco_pony_pink.jpg" alt="Draco Pony Pink"></div>
+  <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/draco_owl_father.jpg" alt="Draco Owl Father"></div>
+  <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/draco_tod.jpg" alt="Draco Tod"></div>
+  <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/draco_mira.jpg" alt="Draco Mira"></div>
+  <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/draco_jhon.jpg" alt="Draco Jhon"></div>
+  <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/shaman.jpg" alt="Shaman"></div>
+  <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/set_of_O_2.jpg" alt="O 2"></div>
+  <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/set_of_O_1.jpg" alt="O 1"></div>
+  <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/flowers.jpg" alt="Flowers"></div>
+  <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/draco_SquirrelDealer.jpg" alt="Draco Squirrel Dealer"></div>
 </div>
 
-## Packaging Illustration
-
-<div class="gallery">
-  <div class="gallery-item"><img src="/assets/images/Portfolio/Packaging%20Illustrations/tea_logo.png" alt="Logo Tea Tales"></div>
-  <div class="gallery-item"><img src="/assets/images/Portfolio/Packaging%20Illustrations/dark_romance.jpg" alt="Dark Romance"></div>
-  <div class="gallery-item"><img src="/assets/images/Portfolio/Packaging%20Illustrations/enchanted_rose.jpg" alt="Enchanted Rose"></div>
-  <div class="gallery-item"><img src="/assets/images/Portfolio/Packaging%20Illustrations/once_upon.jpg" alt="Once Upon Tea Time"></div>
-  
+<div class="gallery" style="column-count: 1;">
+  <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/islands_drako.jpg" alt="Island Draco"></div>
 </div>
-
+<br>

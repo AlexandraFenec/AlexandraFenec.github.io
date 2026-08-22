@@ -5,7 +5,7 @@
     YouTube: <a href="https://www.youtube.com/@AvocadoCouple/videos" target="_blank" rel="noopener noreferrer">https://www.youtube.com/@AvocadoCouple/videos</a>
 </p>
 
-# Avocado Couple
+# Animated series "Avocado Couple"
 
 Avocado Couple is a fun and quirky channel about Ava and Cado, two lovable avocado halves who are crazy in love! About
 their hilarious adventures, romantic moments, and playful banter as they navigate life together. Perfect for anyone who

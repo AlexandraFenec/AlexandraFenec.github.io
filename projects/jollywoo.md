@@ -5,13 +5,13 @@
     YouTube: <a href="https://www.youtube.com/@jollywoo3615" target="_blank" rel="noopener noreferrer">https://www.youtube.com/@jollywoo3615</a>
 </p>
 
-# JollyWoo
+# Animated series "Jolly Woo"
 
-JollyWoo is a fun and educational channel that helps kids learn through engaging songs, dances, and creative hacks. With
+Jolly Woo is a fun and educational channel that helps kids learn through engaging songs, dances, and creative hacks. With
 the playful duo of Hand Jolly and Brain Woo, learning becomes easy and entertaining for children of all ages. Whether
-it’s discovering new games, laughing at funny jokes, or exploring cool tricks, JollyWoo makes every moment enjoyable!
+it’s discovering new games, laughing at funny jokes, or exploring cool tricks, Jolly Woo makes every moment enjoyable!
 
-I participated in the creation of the early episodes of JollyWoo, working on character design and drawing various
+I participated in the creation of the early episodes of Jolly Woo, working on character design and drawing various
 objects.
 
 <br>

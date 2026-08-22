@@ -1,4 +1,4 @@
-# Royal Mint
+# Visual novel "Royal Mint"
 
 Royal Mint by John LoStark is a visual novel that immerses players in a realm where dragons reign supreme, weaving a
 story of intrigue, ancient power struggles, and deep-rooted mysteries.

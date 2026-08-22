@@ -5,7 +5,7 @@
     YouTube: <a href="https://www.youtube.com/@MuffinSocksKids" target="_blank" rel="noopener noreferrer">https://www.youtube.com/@MuffinSocksKids</a>
 </p>
 
-# Muffin Socks
+# Animated series "Muffin Socks"
 
 Muffin Socks is an educational channel that helps kids learn through fun and engaging songs. It makes learning easy and
 enjoyable for children in nursery, kindergarten, and early school with simple, catchy tunes.
