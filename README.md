@@ -113,12 +113,14 @@ Vector illustrations created for product packaging
   <div class="gallery-item"><img src="/assets/images/Portfolio/Packaging%20Illustrations/tea_logo.png" alt="Logo Tea Tales"></div>
   </div>
 <br>
+
 ## Children’s Book Illustration
 
 Cover and interior illustrations for children’s books.
 
 <div class="gallery">
   <div class="gallery-item"><img src="/assets/images/Portfolio/Book%20Illustrations/how_cover.jpg" alt="How to draw Cover"></div>
+  <div class="gallery-item"><img src="/assets/images/Portfolio/Book%20Illustrations/howtodraw_page.jpg" alt="How to draw page"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/Book%20Illustrations/howtodraw_page.jpg" alt="How to draw page"></div>
 </div>
 
