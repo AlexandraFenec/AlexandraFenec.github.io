@@ -10,10 +10,6 @@ examples of my work across different formats and creative fields.
 
 Characters, environments and props created for animation projects
 
-<div class="gallery" style="column-count: 1;">
-  <div class="gallery-item"><img src="/assets/images/Portfolio/Animation%20Projects/field.jpg" alt="Field"></div>
-</div>
-
 <div class="gallery">
   <div class="gallery-item"><img src="/assets/images/Portfolio/Animation%20Projects/character_boy.jpg" alt="Character Boy"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/Animation%20Projects/plane_kids.JPG" alt="Plane Kids"></div>
@@ -28,6 +24,7 @@ Characters, environments and props created for animation projects
 </div>
 
 <div class="gallery" style="column-count: 1;">
+  <div class="gallery-item"><img src="/assets/images/Portfolio/Animation%20Projects/field.jpg" alt="Field"></div>
   <div class="item"><img src="/assets/images/Portfolio/Animation%20Projects/kitchen.JPG" alt="Kitchen"></div>
   <div class="item"><img src="/assets/images/Portfolio/Animation%20Projects/bg_class_room.JPG" alt="Class Room"></div>
   <div class="item"><img src="/assets/images/Portfolio/Animation%20Projects/bg_stage.JPG" alt="Stage"></div>
