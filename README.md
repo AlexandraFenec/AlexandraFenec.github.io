@@ -178,10 +178,10 @@ Characters, environments and props created for a graphic novel game project.
   </div>
 
   <div class="gallery">
-  <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/draco_owl_baby.jpg" alt="Draco Owl Baby"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/crystal.jpg" alt="Crystal"></div>
-  <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/draco_SquirrelBig.jpg" alt="Draco Squirrel"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/draco_owl_father.jpg" alt="Draco Owl Father"></div>
+  <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/draco_SquirrelBig.jpg" alt="Draco Squirrel"></div>
+  <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/draco_owl_baby.jpg" alt="Draco Owl Baby"></div>
 </div>
 
 <div class="gallery" style="column-count: 1;">
