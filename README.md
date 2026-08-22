@@ -30,10 +30,15 @@ Characters, environments and props created for animation projects
 
 <div class="gallery">
   <div class="gallery-item"><img src="/assets/images/Portfolio/Animation%20Projects/plane_kids.JPG" alt="Plane Kids"></div>
- <div class="gallery-item"><img src="/assets/images/Portfolio/Animation%20Projects/fish.JPG" alt="Fish"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/Animation%20Projects/bus.jpg" alt="Bus"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/Animation%20Projects/cart.JPG" alt="Cart"></div>
+  <div class="gallery-item"><img src="/assets/images/Portfolio/Animation%20Projects/fish.JPG" alt="Fish"></div>
  </div>
+
+<div class="gallery" style="column-count: 1;">  
+  <div class="item"><img src="/assets/images/Portfolio/Animation%20Projects/street_cartoon.JPG" alt="Street"></div>
+  <div class="item"><img src="/assets/images/Portfolio/Animation%20Projects/village_cartoon.jpg" alt="Village Cartoon"></div>
+</div>
 
 <div class="gallery" style="column-count: 2;">
   <div class="gallery-item"><img src="/assets/images/Portfolio/Animation%20Projects/field.jpg" alt="Field"></div>
@@ -45,9 +50,6 @@ Characters, environments and props created for animation projects
 </div>
 
 <div class="gallery" style="column-count: 1;">  
-  <div class="item"><img src="/assets/images/Portfolio/Animation%20Projects/park.JPG" alt="Park"></div>
-  <div class="item"><img src="/assets/images/Portfolio/Animation%20Projects/street_cartoon.JPG" alt="Street"></div>
-  <div class="item"><img src="/assets/images/Portfolio/Animation%20Projects/village_cartoon.jpg" alt="Village Cartoon"></div>
   <div class="item"><img src="/assets/images/Portfolio/Animation%20Projects/bg_night_forest.jpg" alt="Night Forest"></div>
 </div>
 
