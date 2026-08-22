@@ -98,7 +98,6 @@ Seamless patterns for apparel and other surfaces.
   <div class="gallery-item"><img src="/assets/images/Portfolio/Seamless%20Design/background_drako.jpg" alt="Background Drako"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/Seamless%20Design/pinguins.png" alt="Pinguins"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/Seamless%20Design/ice.jpg" alt="Ice Cream"></div>
-  <div class="gallery-item"><img src="/assets/images/Portfolio/Seamless%20Design/eyes.jpg" alt="Eyes"></div>
 </div>
 
 <br>
