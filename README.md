@@ -33,17 +33,17 @@ Characters, environments and props created for animation projects
 </div>
 
 <div class="gallery" style="column-count: 1;">  
-  <div class="item"><img src="/assets/images/Portfolio/Animation%20Projects/street_cartoon.JPG" alt="Street"></div>
   <div class="item"><img src="/assets/images/Portfolio/Animation%20Projects/park.JPG" alt="Park"></div>
+  <div class="item"><img src="/assets/images/Portfolio/Animation%20Projects/street_cartoon.JPG" alt="Street"></div>
   <div class="item"><img src="/assets/images/Portfolio/Animation%20Projects/village_cartoon.jpg" alt="Village Cartoon"></div>
   <div class="item"><img src="/assets/images/Portfolio/Animation%20Projects/bg_night_forest.jpg" alt="Night Forest"></div>
 </div>
 
 <div class="gallery" style="column-count: 2;">
   <div class="item"><img src="/assets/images/Portfolio/Animation%20Projects/bg_mermaid_bathroom.jpg" alt="Mermaid Bathroom"></div>
-  <div class="item"><img src="/assets/images/Portfolio/Animation%20Projects/bg_minecraft_Island.jpg" alt="Minecraft Island"></div>
   <div class="item"><img src="/assets/images/Portfolio/Animation%20Projects/bg_jacuzzi.JPG" alt="Jacuzzi"></div>
   <div class="item"><img src="/assets/images/Portfolio/Animation%20Projects/bg_mansion_office.jpg" alt="Mansion Office"></div>
+  <div class="item"><img src="/assets/images/Portfolio/Animation%20Projects/bg_minecraft_Island.jpg" alt="Minecraft Island"></div>
 </div>
 <br>
 
