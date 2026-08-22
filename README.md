@@ -117,14 +117,17 @@ Vector illustrations created for product packaging
 
 Cover and interior illustrations for children’s books.
 
+<div class="gallery">
+  <div class="gallery-item"><img src="/assets/images/Portfolio/Book%20Illustrations/how_cover.jpg" alt="How to draw Cover"></div>
+  <div class="gallery-item"><img src="/assets/images/Portfolio/Book%20Illustrations/howtodraw_page.jpg" alt="How to draw page"></div>
+</div>
+
 <div class="gallery" style="column-count: 1;">
   <div class="gallery-item"><img src="/assets/images/Portfolio/Book%20Illustrations/bottom_line_bg_line_2.PNG" alt="Bottom"></div>
 </div>
 
 <div class="gallery">
   <div class="gallery-item"><img src="/assets/images/Portfolio/Book%20Illustrations/london_fox.JPG" alt="London Fox"></div>
-  <div class="gallery-item"><img src="/assets/images/Portfolio/Book%20Illustrations/how_cover.jpg" alt="How to draw Cover"></div>
-  <div class="gallery-item"><img src="/assets/images/Portfolio/Book%20Illustrations/howtodraw_page.jpg" alt="How to draw page"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/Book%20Illustrations/origami_cover.jpg" alt="Origami Cover"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/Book%20Illustrations/origami_page.jpg" alt="Origami page"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/Book%20Illustrations/northen.JPG" alt="Northen"></div>
