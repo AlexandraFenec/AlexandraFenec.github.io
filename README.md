@@ -169,6 +169,8 @@ Characters, environments and props created for a graphic novel game project.
   <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/draco_mira.jpg" alt="Draco Mira"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/draco_grandfa_fin.jpg" alt="Draco Grandfa"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/draco_SquirrelBig.jpg" alt="Draco Squirrel"></div>
+  <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/draco_owl_father.jpg" alt="Draco Owl Father"></div>
+  <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/draco_owl_baby.jpg" alt="Draco Owl Baby"></div>
  </div>
 
 <div class="gallery">
@@ -180,8 +182,7 @@ Characters, environments and props created for a graphic novel game project.
 
   <div class="gallery">
   <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/crystal.jpg" alt="Crystal"></div>
-  <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/draco_owl_father.jpg" alt="Draco Owl Father"></div>
-  <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/draco_owl_baby.jpg" alt="Draco Owl Baby"></div>
+  
 </div>
 
 <div class="gallery" style="column-count: 1;">
