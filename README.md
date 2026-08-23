@@ -166,10 +166,10 @@ Characters, environments and props created for a graphic novel game project.
   <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/draco_jhon.jpg" alt="Draco Jhon"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/draco_SquirrelDealer.jpg" alt="Draco Squirrel Dealer"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/draco_tod.jpg" alt="Draco Tod"></div>
-  <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/draco_mira.jpg" alt="Draco Mira"></div>
-  <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/draco_grandfa_fin.jpg" alt="Draco Grandfa"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/draco_SquirrelBig.jpg" alt="Draco Squirrel"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/draco_owl_father.jpg" alt="Draco Owl Father"></div>
+  <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/draco_mira.jpg" alt="Draco Mira"></div>
+  <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/draco_grandfa_fin.jpg" alt="Draco Grandfa"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/draco_owl_baby.jpg" alt="Draco Owl Baby"></div>
  </div>
 
@@ -179,11 +179,6 @@ Characters, environments and props created for a graphic novel game project.
   <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/key.jpg" alt="Key"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/books.jpg" alt="Books"></div>
   </div>
-
-  <div class="gallery">
-  <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/crystal.jpg" alt="Crystal"></div>
-  
-</div>
 
 <div class="gallery" style="column-count: 1;">
   <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/islands_drako.jpg" alt="Island Draco"></div>
