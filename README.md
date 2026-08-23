@@ -161,6 +161,10 @@ Characters, environments and props created for a graphic novel game project.
   <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/draco_pony_pink.jpg" alt="Draco Pony Pink"></div>
  </div>
 
+<div class="gallery" style="column-count: 1;">
+  <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/islands_drako.jpg" alt="Island Draco"></div>
+</div>
+
 <div class="gallery" style="column-count: 3;">
   <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/draco_lira.jpg" alt="Draco Lira"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/draco_jhon.jpg" alt="Draco Jhon"></div>
@@ -179,8 +183,4 @@ Characters, environments and props created for a graphic novel game project.
   <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/key.jpg" alt="Key"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/books.jpg" alt="Books"></div>
   </div>
-
-<div class="gallery" style="column-count: 1;">
-  <div class="gallery-item"><img src="/assets/images/Portfolio/GameDev%20Projects/islands_drako.jpg" alt="Island Draco"></div>
-</div>
 <br>
