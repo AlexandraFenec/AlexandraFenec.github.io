@@ -81,7 +81,7 @@ Vector and raster illustrations for children’s educational content, health edu
 
 ## Surface Pattern Design
 
-Seamless patterns for apparel and other surfaces.
+Vector seamless patterns for apparel and other surfaces.
 
 <div class="gallery" style="column-count: 3;">
   <div class="gallery-item"><img src="/assets/images/Portfolio/Seamless%20Design/feathers.jpg" alt="Feathers"></div>
