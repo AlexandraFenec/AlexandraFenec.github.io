@@ -76,6 +76,7 @@ Vector and raster illustrations for children’s educational content, health edu
   <div class="gallery-item"><img src="/assets/images/Portfolio/Illustrations%20for%20websites,%20vector/programmer.jpg" alt="Programmer"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/Illustrations%20for%20websites,%20vector/space.jpg" alt="Space"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/Illustrations%20for%20websites,%20vector/plane.jpg" alt="Plane"></div>
+  <div class="gallery-item"><img src="/assets/images/Portfolio/Illustrations%20for%20websites,%20vector/knee.JPG" alt="Knee"></div>
 </div>
 <br>
 
