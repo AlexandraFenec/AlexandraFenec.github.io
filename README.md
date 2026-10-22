@@ -68,7 +68,6 @@ Vector and raster illustrations for children’s educational content, health edu
 <div class="gallery">
   <div class="gallery-item"><img src="/assets/images/Portfolio/Illustrations%20for%20websites,%20vector/doctor.png" alt="Doctor"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/Illustrations%20for%20websites,%20vector/organs.png" alt="Organs"></div>
-  <div class="gallery-item"><img src="/assets/images/Portfolio/Illustrations%20for%20websites,%20vector/knee.jpg" alt="Knee"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/Illustrations%20for%20websites,%20vector/doctor_call.jpg" alt="Doctor Call"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/Illustrations%20for%20websites,%20vector/teacher.JPG" alt="Teacher"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/Illustrations%20for%20websites,%20vector/home_office_2.jpg" alt="Home Office"></div>
@@ -77,6 +76,7 @@ Vector and raster illustrations for children’s educational content, health edu
   <div class="gallery-item"><img src="/assets/images/Portfolio/Illustrations%20for%20websites,%20vector/programmer.jpg" alt="Programmer"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/Illustrations%20for%20websites,%20vector/space.jpg" alt="Space"></div>
   <div class="gallery-item"><img src="/assets/images/Portfolio/Illustrations%20for%20websites,%20vector/plane.jpg" alt="Plane"></div>
+  <div class="gallery-item"><img src="/assets/images/Portfolio/Illustrations%20for%20websites,%20vector/knee.jpg" alt="Knee"></div>
 </div>
 <br>
 
